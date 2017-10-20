@@ -1,0 +1,4 @@
+str.includes(searchString[, position])
+
+Deze string zoekt naar een stukje string van het grote geheel, de position is optioneel en geeft aan vanaf welk karakter in de
+de string er gezocht moet worden
